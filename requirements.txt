@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+requests
+python-dotenv
+pypdf
+pandas
+faker
